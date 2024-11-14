@@ -28,14 +28,13 @@ The EDA process in this project involves the following steps:
 
 ## Conclusion
 
-1. **Seasonal Price Variation**: The average price of avocados is higher in the second half of the year than the first half.
+## Conclusions
+* It is noted that the average price of the avocados is higher in the second half of the year than the fist half.
+* The correlation is medium negative correlation between 'TotalVolume' and 'AveragePrice'.
+  * Because the correlation is medium, so may be other factors at play influencing the relationship between 'TotalVolume' and 'AveragePrice'.
+* The average price for the conventional avocados is 1.158445.
+* The average price varies significantly across regions. For instance, HartfordSpringfield and SanFrancisco have the highest average prices, while
+  Houston and PhoenixTucson have the lowest.
+* There is a rise in avocado sales, and this rise began in 2017.
+* From the average price data, it appears that prices are highest in October and lowest in February. This could suggest a seasonal trend where avocado prices increase in the autumn and decrease in the winter.While sales are highest in February and lowest in November and October, this is expected because the correlation between them is inverse.
 
-2. **Correlation between Volume and Price**: There is a medium negative correlation between 'TotalVolume' and 'AveragePrice'. This suggests that as the total volume of avocados sold increases, the average price decreases. However, because the correlation is medium, there may be other factors influencing the relationship between 'TotalVolume' and 'AveragePrice'.
-
-3. **Price Difference between Conventional and Organic Avocados**: The average price for conventional avocados is 1.158040, while the average price for organic avocados is 1.649377. This suggests that on average, organic avocados are priced higher than conventional avocados. This is generally expected as organic farming practices are often more costly due to stricter regulations and lower yields.
-
-4. **Regional Price Variation**: The average price varies significantly across regions. For instance, HartfordSpringfield and SanFrancisco have the highest average prices, while DallasFtWorth and Houston have the lowest.
-
-5. **Sales Trend**: There is a decline in avocado sales, and this decline began in 2017.
-
-6. **Seasonal Sales Variation**: From the average price data, it appears that prices are highest in October and lowest in February. This could suggest a seasonal trend where avocado prices increase in the autumn and decrease in the winter. Sales are highest in February and lowest in November and October, which is expected because the correlation between price and sales volume is inverse.
